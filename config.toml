@@ -1,0 +1,25 @@
+baseURL = "https://matbarPL.github.io/"
+languageCode = "en-us"
+title = "Mateusz Baryła"
+theme = "yinyang"
+enableRobotsTXT = true
+pygmentsUseClasses = true
+
+[author]
+  email = "mateusz.baryla.1996@gmail.com"
+  name = "Mateusz Baryła"
+
+[params]
+  headTitle = "Mateusz Baryła 💻"
+  mainSections = ["blog"]
+  favicon = "/img/favicon.ico"
+  images = ["/img/beach.jpg"]
+  description = "Mateusz Baryła's portfolio ツ"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
