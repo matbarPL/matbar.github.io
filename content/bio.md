@@ -12,4 +12,4 @@ Witnessing the power of data in close-knit teams is something that I enjoy the m
 
 Besides work, I like spending time doing sports, cooking 🍔 and reading 📚.
 
-Please contact me via SNS if you have any questions or want to get to know me 🤝
+Please contact me via SNS if you have any questions or want to get to know me 🤝.
