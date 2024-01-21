@@ -1,4 +1,4 @@
-baseURL = "https://matbarPL.github.io/matbar.github.io/"
+baseURL = "https://matbarPL.github.io/"
 languageCode = "en-us"
 title = "Mateusz Baryła"
 theme = "yinyang"
