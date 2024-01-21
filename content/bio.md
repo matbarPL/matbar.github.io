@@ -2,7 +2,7 @@
 title = "Bio"
 +++
 
-Hello 🙋
+Hello! 🙋
 
 My name is Mateusz and I have nearly four years of professional experience. I was working in management consulting, startup and in Fortune 500 company. Considering these experiences I have developed my communication and analytical skills. As a part of multiple international projects, I have dived into complex data sets and delivered comprehensive analyses for the world's largest companies.
 
